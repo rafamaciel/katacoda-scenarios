@@ -1,0 +1,1 @@
+Este projeto foi criado permitir a instalação do ambiente de desenvolvimento utilizando o kind.
